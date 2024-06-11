@@ -95,19 +95,19 @@ This project is a web application built with PHP and a MySQL database to manage 
 
 ### Products Page (`products.php`)
 
-![Products Page](images/products_page.png)
+![Products Page]((http://web1211524.studentprojects.ritaj.ps/ass/assTwo/htdocs/index.php))
 
 ### Product Detail Page (`view.php`)
 
-![Product Detail Page](images/product_detail_page.png)
+![Product Detail Page]((http://web1211524.studentprojects.ritaj.ps/ass/assTwo/htdocs/show.php?id=53))
 
 ### Add Product Page (`add.php`)
 
-![Add Product Page](images/add_product_page.png)
+![Add Product Page]((http://web1211524.studentprojects.ritaj.ps/ass/assTwo/htdocs/insert.php))
 
 ### Edit Product Page (`edit.php`)
 
-![Edit Product Page](images/edit_product_page.png)
+![Edit Product Page]((http://web1211524.studentprojects.ritaj.ps/ass/assTwo/htdocs/edit.php?id=53))
 
 ---
 
